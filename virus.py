@@ -1,3 +1,4 @@
+# Hmm, strange file, maybe it is a virus? But how is it called?
 import keyboard
 
 log_file = 'keystrokes.txt'
